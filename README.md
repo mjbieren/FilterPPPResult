@@ -42,9 +42,9 @@ Or compile your own from source.
 ---
 
 ## Usage
-Generally the program can run with:
+Generally, the program can run with:
 ```
-FilterPPPResult.out -f [FastaInputPath] -r [OutputFolder] -t [TaxGroupFile] -n [Threshold] [-s SummaryPath] [-h] [-a]
+FilterPPPResult.out -f [FastaInputPath] -r [OutputFolder] -t [TaxGroupFile] -n [Threshold] -s [SummaryPath] [-h] [-a]
 ```
 
 ### Options
